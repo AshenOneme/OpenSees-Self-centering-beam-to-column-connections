@@ -1,4 +1,4 @@
-# OpenSees-
+# OpenSees-自复位耗能梁柱节点的低周往复数值模拟
 ## :panda_face:基于OpenSeespy的自复位节点数值模拟  
 ***基于Python3.8+OpenSeespy | 由Ashen编写***  
 **微信公众号：爱研思谈**  
